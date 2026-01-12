@@ -40,6 +40,15 @@ The project showcases a complete user interface with multiple interactive sectio
 - **Nested Routes**: Hierarchical page structure
 - **Programmatic Navigation**: Client-side routing capabilities
 
+## 🛠️ Technology Stack
+- **Git** - Version control
+- **Sass/SCSS** - Advanced CSS preprocessor
+- **JavaScript (ES6+)** - Core programming language
+- **React** - UI component library
+- **Next.js** - React framework for production
+- **Vite** - Modern frontend build tool
+- **CSS** - Styling and layout
+
 ## 🚀 Getting Started
 
 **Prerequisites**:
@@ -84,12 +93,3 @@ npm start
 # or
 yarn start
 ```
-
-## 🛠️ Technology Stack
-- **Git** - Version control
-- **Sass/SCSS** - Advanced CSS preprocessor
-- **JavaScript (ES6+)** - Core programming language
-- **React** - UI component library
-- **Next.js** - React framework for production
-- **Vite** - Modern frontend build tool
-- **CSS** - Styling and layout
