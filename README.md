@@ -84,3 +84,12 @@ npm start
 # or
 yarn start
 ```
+
+## 🛠️ Technology Stack
+- **Git** - Version control
+- **Sass/SCSS** - Advanced CSS preprocessor
+- **JavaScript (ES6+)** - Core programming language
+- **React** - UI component library
+- **Next.js** - React framework for production
+- **Vite** - Modern frontend build tool
+- **CSS** - Styling and layout
